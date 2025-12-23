@@ -89,4 +89,6 @@ struct CurrencyInfo: View{
 func testGit(){
     //Check
     //Check 2
+    //Check 3
+    
 }
